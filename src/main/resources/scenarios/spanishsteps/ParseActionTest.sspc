@@ -1,0 +1,11 @@
+// scenario one
+one client alpha-1
+one seller alpha-4
+% scenario two
+two client alpha-1
+two seller alpha-4
+one seller alpha-16 2 4
+two seller alpha-16 5 6
+one client alpha-17
+one seller alpha-16 7 6
+one client alpha-18
